@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.global {
+  @apply bg-blue-500 shadow-md;
+}
